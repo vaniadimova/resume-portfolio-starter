@@ -2,7 +2,7 @@
   "main": {
     "name": "Vania Dimova",
     "occupation": "VANIAD STUDIO",
-    "description": "My day starts and ends with Coding",
+    "description": "Coding is like magic - it's not just about the code, it's about the art. I love to code, and I love to create. I love to make things that make people happy. ",
     "image": "profilepic.jpg",
     "bio": "Hi there! I am Vania! You might also know me as VaniaD Studio. As a Full Stack developer, I've worked with startups and small corporations to help build & scale their companies. Along the journey, I realized my passion for helping others excel and pursue their dreams. I deliver REAL VALUE by creating REAL WORLD projects. I’ll get hands-on experience and learn the skills that are required to succeed in the real world.",
     "contactmessage": "Get in touch with me to be a part of VaniaD Studio!",
@@ -110,6 +110,18 @@
         "category": "",
         "image": "nftdrop.png",
         "url": "https://nftdrop-six.vercel.app/"
+      },
+      {
+        "title": "SopperFeed Dashboard(React + Syncfusion + TailwindCSS + Varcel)",
+        "category": "",
+        "image": "dashboard.png",
+        "url": "https://dashboard-ten-lime.vercel.app/"
+      },
+      {
+        "title": "Reddit 2.0 with NEXT.JS!",
+        "category": "",
+        "image": "reddit.png",
+        "url": "https://reddit-2-clone.netlify.app/"
       }
     ]
   },
