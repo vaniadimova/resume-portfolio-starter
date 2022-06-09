@@ -122,6 +122,12 @@
         "category": "",
         "image": "reddit.png",
         "url": "https://reddit-2-clone.netlify.app/"
+      },
+      {
+        "title": "Client Site E-commerce FrontEnd! (React,TypeScript,TailwindCss, FormSpree)",
+        "category": "",
+        "image": "ecommerce.png",
+        "url": "https://clientsite-8cb1tuwg8-vaniadimova.vercel.app/"
       }
     ]
   },
