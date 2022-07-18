@@ -2,12 +2,12 @@
   "main": {
     "name": "Vania Dimova",
     "occupation": "VANIAD STUDIO",
-    "description": "Coding is like magic - it's not just about the code, it's about the art. I love to code, and I love to create. I love to make things that make people happy. ",
+    "description": "Coding is like magic - it gives you all the tools to create what you can ivission ",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Vania! You might also know me as VaniaD Studio. As a Full Stack developer, I've worked with startups and small corporations to help build & scale their companies. Along the journey, I realized my passion for helping others excel and pursue their dreams. I deliver REAL VALUE by creating REAL WORLD projects. I’ll get hands-on experience and learn the skills that are required to succeed in the real world.",
-    "contactmessage": "Get in touch with me to be a part of VaniaD Studio!",
+    "bio": "Hi there! I am Vania ... I am the co-founder of VaniaD Studio. As a Full Stack developer, I've worked with startups and small corporations to help build & scale their companies. Along the journey, my goal is to aid others excel and pursue their dreams. I deliver REAL VALUE by creating REAL WORLD projects. I am hands-on experience and have the skills that are required to bring success.",
+    "contactmessage": "Get in touch, be a part of VaniaD Studio!",
     "email": "ivankadimov8@gmail.com",
-    "phone": "+1 (416)  435 - 4167",
+    "phone": "+1 (416)453.4167",
     "address": {
       "street": "Shops at Don Mills",
       "city": "Toronto",
@@ -15,7 +15,7 @@
       "zip": "M3C 2A9"
     },
     "website": "https://www.vaniadimova.com",
-    "resumedownload": "https://docs.google.com/document/d/1BHXEUBI4RBcEJznlDmI8NYj_G2CsBItT/",
+    "resumedownload": "https://docs.google.com/document/d/1BHXEUBI4RBcEJznlDmI8NYj_G2CsBItT/" ,
     "social": [
       {
         "name": "youtube",
@@ -48,18 +48,18 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "Edx CS50 - Harvard University",
-        "degree": "Computer Science Intro Certifiction",
+        "school": "Edx CS50, Free Code Camp, Udemy, YouTube, Google ",
+        "degree": "Computer Science, Web Development, Creative Writting, and Modern Smart Marketting",
         "graduated": "July 2019",
-        "description": "Graduated C, Python4everyone, JavaScript, Swift-Mobile"
+        "description": "C Programming, Python4everyone, JavaScript, Mobile App Development with Swift"
       }
     ],
     "work": [
       {
         "company": "VANIAD STUDIO",
         "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the VANIAD Fam as large as possible."
+        "years": "February 2019 - Present",
+        "description": "Create all that is possible. On my way to clone the world! VANIAD STUDIO hiring Fams as many as possible."
       }
     ],
     "skills": [
@@ -120,14 +120,20 @@
       {
         "title": "Reddit 2.0 with NEXT.JS! (React, SQL, Supabase, StepZen, GraphQL, TypeScript,Tailwind)",
         "category": "",
-        "image": "reddit.png",
+        "image": "Reddit.png",
         "url": "https://reddit-2-clone.netlify.app/"
       },
       {
         "title": "Client Site E-commerce FrontEnd! (React,TypeScript,TailwindCss, FormSpree)",
         "category": "",
         "image": "ecommerce.png",
-        "url": "https://clientsite-8cb1tuwg8-vaniadimova.vercel.app/"
+        "url": "https://meetshop.vercel.app/"
+      },
+      {
+        "title": "Full Stack Video-Sharing Social Media Application! (React,TypeScript,TailwindCss, Sanity.io)",
+        "category": "",
+        "image": "tuktic.png",
+        "url": "https://tuktik.vercel.app/"
       }
     ]
   },
@@ -135,7 +141,7 @@
     "testimonials": [
       {
         "text": "Vania is absolutely excellent, her depth of knowledge & her mentorship really meant a lot to us... I would definitely recommend",
-        "user": "J Paskal"
+        "user": "G Paskal"
       },
       {
         "text": "Working with Vania has been AWESOME, she makes solvoingproblems so easy and approachable, and we know the result will be success!",

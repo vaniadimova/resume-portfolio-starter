@@ -103,7 +103,7 @@ ins {
 
 mark {
    background-color: #A7F4F6;
-   color: #555;
+   color: rgb(147, 142, 142);
 }
 
 del { text-decoration: line-through; }
@@ -147,7 +147,7 @@ body {
    font-weight: normal;
    font-size: 15px;
    line-height: 30px;
-	color: #838C95;
+	color: #484b4d;
 
    -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 	-webkit-text-size-adjust: 100%;
@@ -169,7 +169,8 @@ h3 { font-size: 22px; line-height: 30px; margin-bottom: 12px; }
 h4 { font-size: 20px; line-height: 30px; margin-bottom: 6px; }
 h5 { font-size: 18px; line-height: 30px; }
 h6 { font-size: 14px; line-height: 30px; }
-.subheader { }
+.subheader{}
+
 
 p { margin: 0 0 30px 0; }
 p img { margin: 0; }
